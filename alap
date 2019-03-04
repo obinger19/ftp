@@ -1,0 +1,6 @@
+apt-get install vsftpd
+mcedit /etc/vsftpd.conf  ///anonymus_enable=YES
+services vsftpd star
+
+
+bongeszo: ftp://sajat ip
